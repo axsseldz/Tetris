@@ -2,7 +2,7 @@
 
                                         ~ DESCRIPTION  ~
 
-We recreate Tetris game by adding new features using MiniWin which is a mini library that provides us with functions to open a window, paint on it and detect the pressure of some keys, which helps us to develop basic games.
+We recreated Tetris game by adding new features using MiniWin which is a mini library that provides us with functions to open a window, paint on it and detect the pressure of some keys, which helps us to develop basic games.
 
 
                                         ~ FEATURES ~
